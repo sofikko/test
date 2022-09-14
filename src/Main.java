@@ -5,7 +5,7 @@ public class Main {
         String[] a = new String[5];
         for (int i = 0; i < 5; i++) {
             a[i] = (String.valueOf((char)(67+i)));
-        }
+        }//
         //...
         m.doing(a);
         //;.[;l]
